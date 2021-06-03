@@ -1,0 +1,26 @@
+[
+	{
+		"Id":1001,
+		"name": "Rice",
+		"weight": 7,
+		"price": 452
+	},
+	{
+		"Id":1002,
+		"name": "Wheat",
+		"weight": 5,
+		"price": 600
+	},
+	{
+		"Id":1003,
+		"name": "Pulses",
+		"weight": 4,
+		"price": 230
+	},
+	{
+		"Id":1004,
+		"name": "Wheat",
+		"weight":10,
+		"price": 412
+	}
+]					
