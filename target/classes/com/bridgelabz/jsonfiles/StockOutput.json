@@ -1,0 +1,31 @@
+{
+	"totalValueOfAllStock": 5800,
+	"patanjali": [
+		{
+			"stock_name": "Patanjali_company",
+			"number_of_share": 120,
+			"share_price": 5
+		}
+	],
+	"marie": [
+		{
+			"stock_name": "Marie_company",
+			"number_of_share": 150,
+			"share_price": 10
+		}
+	],
+	"oreo": [
+		{
+			"stock_name": "Oreo_company",
+			"number_of_share": 110,
+			"share_price": 20
+		}
+	],
+	"tiger": [
+		{
+			"stock_name": "Tiger_company",
+			"number_of_share": 150,
+			"shre_price": 10
+		}
+	
+}
