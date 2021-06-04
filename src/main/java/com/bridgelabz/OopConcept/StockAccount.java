@@ -60,17 +60,17 @@ public class StockAccount {
 		System.out.println("Please enter customer id");
 		
 		int CustomerId=OopsUtility.integerScanner();
-		boolean isCustomerFound=false;
+		boolean isCustomerfound=false;
 		for(int i=0;i<custList.size();i++)
 		{
 			if(CustomerId==custList.get(i).getCustomer_symbol())
 			{
-				isCustomerFound=true;
+				isCustomerfound=true;
 				indexOfCustomer=i;
 				break;
 			}
 		}
-		if(isCustomerFound)
+		if(isCustomerfound)
 		{
 			while(!isExit)
 			{  
